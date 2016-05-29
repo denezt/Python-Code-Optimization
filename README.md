@@ -1,5 +1,9 @@
-# Code Optimization and Benchmarking
+Code Optimization and Benchmarking
+==
+
 <hr>
+
+# Benchmarking
 ```
 Benchmarking code enables a programmer to refactor code and minimize or eliminate "Bottlenecking". 
 Refactoring code is important for systems with limited memory and or share resources. 
@@ -14,6 +18,7 @@ In such cases code benchmarking can assist the developer in measuring processor 
 ```
 
 # Contact Info
+```
 URUS C.G. LLC.
 11200 Broadway
 Suite 2743
@@ -21,6 +26,7 @@ Pearland
 Texas
 TX 77584-978
 United States of America
+```
 
 # License
 ```
