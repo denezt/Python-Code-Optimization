@@ -1,7 +1,10 @@
 # Code Optimization and Benchmarking
 <hr>
 ```
-Benchmarking code enables a programmer to refactor code and minimize or eliminate "Bottlenecking". Refactoring code is important for systems with limited memory and or share resources. Additionally, the previous code might require change due to application enhancement or upgrades. In such cases code benchmarking can assist the developer in measuring processor cycles and computation time.  
+Benchmarking code enables a programmer to refactor code and minimize or eliminate "Bottlenecking". 
+Refactoring code is important for systems with limited memory and or share resources. 
+Additionally, the previous code might require change due to application enhancement or upgrades. 
+In such cases code benchmarking can assist the developer in measuring processor cycles and computation time.  
 ```
 
 
