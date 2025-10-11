@@ -1,0 +1,12 @@
+# Generated Files
+# Ignore from c_extensions
+*.so
+*.pyc
+**/add_ex_venv/**
+
+# Directories
+**/logs/**
+logs/**
+**/tmp/**
+temp/**
+
