@@ -2,7 +2,8 @@
 # Ignore from c_extensions
 *.so
 *.pyc
-**/add_ex_venv/**
+# **/add_ex_venv/**
+**/*_venv
 
 # Directories
 **/logs/**
