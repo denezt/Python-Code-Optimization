@@ -17,20 +17,9 @@ In such cases code benchmarking can assist the developer in measuring processor 
 
 ```
 
-# Contact Info
-```
-URUS C.G. LLC.
-11200 Broadway
-Suite 2743
-Pearland
-Texas
-TX 77584-978
-United States of America
-```
-
 # License
 ```
-Copyright ® 2016  Richard "Hackson" Jackson
+Copyright ® 2025  Richard L. Jackson Jr.
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published
 the Free Software Foundation, either version 3 of the License, or
